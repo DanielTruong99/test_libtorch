@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/ryz2/DanielWorkspace/test_libtorch/build",
+  "command": "/usr/bin/c++  -DUSE_C10D_GLOO -DUSE_DISTRIBUTED -DUSE_RPC -DUSE_TENSORPIPE -isystem /home/ryz2/DanielWorkspace/libtorch/include -isystem /home/ryz2/DanielWorkspace/libtorch/include/torch/csrc/api/include  -g   -D_GLIBCXX_USE_CXX11_ABI=0 -o CMakeFiles/test_torch.dir/main.cpp.o -c /home/ryz2/DanielWorkspace/test_libtorch/main.cpp",
+  "file": "/home/ryz2/DanielWorkspace/test_libtorch/main.cpp"
+}
+]

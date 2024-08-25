@@ -1,0 +1,3 @@
+/home/ryz2/DanielWorkspace/test_libtorch/build/CMakeFiles/rebuild_cache.dir
+/home/ryz2/DanielWorkspace/test_libtorch/build/CMakeFiles/edit_cache.dir
+/home/ryz2/DanielWorkspace/test_libtorch/build/CMakeFiles/test_torch.dir
